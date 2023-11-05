@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CadAlunos</string>
+    <string name="ordenar_por_id">Ordenar por ID</string>
+
+    <string-array name="cursos_array">
+        <item>GTI</item>
+        <item>ADS</item>
+
+    </string-array>
+</resources>
